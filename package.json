@@ -1,0 +1,25 @@
+{
+    "name": "cra-template-sakib-react",
+    "description": "TypeScript template for Create React App",
+    "version": "1.0.0",
+    "keywords": [
+        "react",
+        "create-react-app",
+        "template",
+        "typescript",
+        "sakib"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shakibhasan09/cra-template-sakib-react.git"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Sakib Hasan",
+        "email": "shakibhasan.me09@gmail.com"
+    },
+    "files": [
+        "template",
+        "template.json"
+    ]
+}
