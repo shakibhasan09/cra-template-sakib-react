@@ -2,5 +2,5 @@
 
 <span>
   <span>Install CMD: </span>
-  <code>npx create-react-app my-app --template sakib-react </code>  
+  <code>npx create-react-app my-app --template sakib-typescript </code>  
 </span>
